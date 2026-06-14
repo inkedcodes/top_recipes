@@ -1,1 +1,1 @@
-[Link](https://inkedcodes.github.io/top_recipes/)
+[Preview](https://inkedcodes.github.io/top_recipes/)
